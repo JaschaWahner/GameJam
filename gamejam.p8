@@ -10,7 +10,7 @@ __lua__
 function _init()
  -- 0 = main menu
  -- 1 = gameplay
- -- ..
+ -- 2 = game over
  
  state = 1
  
